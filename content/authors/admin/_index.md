@@ -50,21 +50,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=L0E4foIAAAAJ&hl=en
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sreeramanr@sce.carleton.ca
+email: "sreeramanr@sce.carleton.ca"
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
 ---
+
 Prof. Sreeraman Rajan joined Carleton University in July 2015 as an Associate Professor and a Tier II Canada Research Chair (Sensor Systems). Prior to joining Carleton, he was with Defence Research and Development Canada (DRDC).
 
 He served as a Scientific Officer with the Reactor Control Division, Bhabha Atomic Research Center, Bombay, India, from 1986 to 1990, where he was involved in the control, safety, and regulation of nuclear research and power reactors. He also worked on optical components and the development of signal processing algorithms for advanced fiber optic modules at JDS Uniphase from 1999 to 2000. He was also an employee of Ceyba Corporation from 2000 to 2003, where he was involved in channel monitoring, dynamic equalization, and control of optical power for advanced fiber optical communication systems. While at Biopeak Corporation, Ottawa, in 2004, he developed signal processing algorithms for noninvasive medical devices.
