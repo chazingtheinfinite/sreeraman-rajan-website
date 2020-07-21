@@ -18,27 +18,59 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Associate Professor, Tier 2 Canada Research Chair"
+  company = "Department of Systems and Computer Engineering, Carleton University"
+  company_url = "https://carleton.ca/sce/"
+  location = "Ottawa, Ontario, Canada"
+  date_start = "2015-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Digital Signal Processing teaching and research in the areas of contact/noncontact sensor signal processing, data analytics, compressive sensing and machine learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Adjunct Assistant Professor"
+  company = "Department of Electrical Engineering and Computer Engineering, The Royal Military College"
+  company_url = "https://engineering.uottawa.ca/school-EECS"
+  location = "Kingston, Ontario, Canada"
+  date_start = "2015-04-01"
+  date_end = "2021-04-01"
+  description = """Research in various aspects of signal processing for electronic warfare and electronic warfare systems"""
+
+[[experience]]
+  title = "Adjunct Professor"
+  company = "School of Electrical Engineering and Computer Science, University of Ottawa"
+  company_url = "https://engineering.uottawa.ca/school-EECS"
+  location = "Ottawa, Ontario, Canada"
+  date_start = "2010-04-01"
+  date_end = "2018-04-01"
+  description = """Research in the area of physiological signal processing, design of instrumentation and signal processing for non-invasive medical devices, stand-o detection"""
+
+[[experience]]
+  title = "Defence Scientist"
+  company = "Defence Research & Development Canada"
+  company_url = "http://www.drdc-rddc.gc.ca/"
+  location = "Ottawa, Ontario, Canada"
+  date_start = "2004-12-01"
+  date_end = "2015-06-01"
+  description = """Research in areas of Communication and Radar Electronic Warfare."""
+
+[[experience]]
+  title = "Signal Processing Specialist"
+  company = "Biopeak Corporation"
+  company_url = "http://www.biopeak.com/"
+  location = "Ottawa, Ontario, Canada"
+  date_start = "2003-08-01"
+  date_end = "2004-12-01"
+  description = """Research and development in non-invasive medical devices for physiological signal monitoring"""
+
+[[experience]]
+  title = "DSP Algorithm Specialist/Optics Engineer"
+  company = "Ceyba Corp"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ottawa, Ontario, Canada"
+  date_start = "2000-09-01"
+  date_end = "2003-05-01"
+  description = """Research and development in ultra long haul and long haul fiber optical communication systems"""
 
 +++
